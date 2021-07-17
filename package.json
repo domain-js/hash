@@ -1,6 +1,6 @@
 {
   "name": "@domain.js/hash",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "domain.js hash 通用模块",
   "main": "index.js",
   "scripts": {

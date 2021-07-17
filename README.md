@@ -24,3 +24,4 @@
 | get | 读取一个 key | await hash.get('name') |
 | set | 设置一个 key | await hash.set('name', 'Redstone') |
 | del | 删除一个 key | await hash.del('name') |
+| incr | 原子操作某个 key 的值增加 | await hash.incr('name', 1) |
